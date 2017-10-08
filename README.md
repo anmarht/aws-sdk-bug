@@ -1,4 +1,4 @@
-# aws-sdk-bug
+# Performance Testing to show DynamoDB/Core performance bug
 
 This Repository consists of 2 C# solutions, they execute a multithreaded DynamoDB updates and calculate total time in order to show the performance bug in sdk/src/Core/Amazon.Runtime/Internal/_async/AsyncRunner.cs.
 
